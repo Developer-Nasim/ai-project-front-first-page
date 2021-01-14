@@ -201,6 +201,7 @@ li {
 .mobile-menu  nav ul li {
   list-style: none;
   display: block;
+  height: 38px;
 }
 
 .mobile-menu nav ul li a {
