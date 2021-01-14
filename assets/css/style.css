@@ -644,6 +644,7 @@ label.ckb input:checked ~ span.checkmark::after {
   padding: 45px 0;
   margin-top: 115px;
   z-index: 2;
+  overflow: hidden;
 }
 .footer-area img {
   position: absolute;
