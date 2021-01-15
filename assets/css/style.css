@@ -270,11 +270,11 @@ li {
 
 
 
-
+/* 
 .all_content{
   max-width: 1440px;
   margin: auto;
-}
+} */
 .hero-area {
   position: relative;
   z-index: 2;
@@ -288,7 +288,7 @@ li {
   z-index: -1;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  /* object-fit: cover; */
   object-position: top center;
 }
 .hero-wrp h1 {
