@@ -506,6 +506,8 @@ li {
   position: relative;
   z-index: 2;
   overflow: hidden;
+  max-width: 1440px;
+  margin: auto;
 }
 
 .contact-area img.snape-img {
