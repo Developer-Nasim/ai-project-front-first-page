@@ -1,13 +1,17 @@
 /* Big screen :1200px. */
-@media (min-width: 1200px) and (max-width: 1500px) {
+@media (min-width: 1300px) and (max-width: 1500px) {
     .hero-area { 
         padding-top: 200px;
         padding-bottom: 200px;
-    }
-    .contact-area img.snape-img { 
+    } 
+}
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1300px) { 
+    .contact-area .snape-img { 
         left: -340px;
         max-width: 1035px;
     }
+   
 }
 
 
@@ -17,7 +21,7 @@
         padding-top: 200px;
         padding-bottom: 200px;
     }
-    .contact-area img.snape-img {
+    .contact-area .snape-img {
         position: absolute;
         bottom: 0;
         left: -230px;
@@ -115,7 +119,7 @@
         padding-top: 0;
         padding-bottom: 50px;
     }
-    .contact-area img.snape-img {
+    .contact-area .snape-img {
         position: unset;
         bottom: 0;
         left: -265px;
@@ -248,7 +252,7 @@
         padding-top: 0;
         padding-bottom: 50px;
     }
-    .contact-area img.snape-img {
+    .contact-area .snape-img {
         position: unset;
         bottom: 0;
         left: -265px;

@@ -509,12 +509,15 @@ li {
   max-width: 1440px;
   margin: auto;
 }
-
-.contact-area img.snape-img {
+.contacts{
+  position: relative;
+  overflow: hidden;
+}
+.contact-area .snape-img {
   position: absolute;
   bottom: 0;
-  left: -265px;
-  max-width: 1065px;
+  left: -290px;
+  max-width: 970px;
 }
 .contact-wrp h4 {
   font-family: var(--homebold);
